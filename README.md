@@ -6,7 +6,7 @@
 
 ### Using only Java in the front end. 
 
-##MVP
+MVP
 Create files for each
 Render on local
 Possible CSS and HTML
